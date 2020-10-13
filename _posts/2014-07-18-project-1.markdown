@@ -7,8 +7,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 category: Programming
-description: In the summer of 2016, 4-H JCCC taught Scratch programming. Below are some links to programs developed in the club activities. Click the link to run the program.
-
+description: In the summer of 2016, 4-H JCCC taught Scratch programming. Below are some links to programs developed in the club activities. Click the link to run the program.   
 
 https://scratch.mit.edu/projects/118390165/  -  drawing using Scratch
 https://scratch.mit.edu/projects/118263308/  -  more drawing with Scratch
