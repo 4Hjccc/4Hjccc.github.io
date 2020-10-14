@@ -10,7 +10,5 @@ alt: image-alt
 project-date: June 2016
 client: Start Bootstrap
 category: Web Development
-description: In summer 2016, JCCC taught Scratch programming. Scratch is a block-based coding site that is easy to learn, fun to use, and fairly powerful. Below are some of the programs developed by club members. Click the link to run the program. <br>Draw Different shapes: <a href="https://scratch.mit.edu/projects/118390165">(https://scratch.mit.edu/projects/118390165/)</a></br> <br>Draw Different shapes: <a href="https://scratch.mit.edu/projects/118263308">(https://scratch.mit.edu/projects/118263308/)</a></br> </br> <br>Play a game: <a href="https://scratch.mit.edu/projects/114700603">(https://scratch.mit.edu/projects/114700603/)</a></br>
-
+description: In summer 2016, JCCC taught Scratch programming. Scratch is a block-based coding site that is easy to learn, fun to use, and fairly powerful. Below are some of the programs developed by club members. Click the link to run the program. 
 ---
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
