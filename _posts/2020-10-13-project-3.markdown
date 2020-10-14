@@ -4,8 +4,8 @@ subtitle: 2016
 layout: default
 modal-id: 6
 date: 2020-10-13
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: golden.png
+thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: June 2016
 client: Start Bootstrap
