@@ -3,7 +3,7 @@ title: Scratch Programming
 subtitle: 2016
 layout: default
 modal-id: 6
-date: 2020-10-13
+date: 2016-6-12
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
