@@ -2,7 +2,7 @@
 title: VEX Robotics - Recbots
 subtitle: 2017
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-06-15
 img: recbot.png
 thumbnail: recbot-thumbnail.jpg
