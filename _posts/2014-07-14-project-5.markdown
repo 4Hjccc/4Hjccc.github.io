@@ -1,6 +1,6 @@
 ---
 title: Python programming
-subtitle: Website Design
+subtitle: 2019
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: In summer 2019, we learned Python programming. The session topics, slides and some Python codes used in the study can be seen by clicking the links blow.  <b>Introduction to Python programing language and Spyder (<a href="lect1.py">lect1.py</a>)</LI></b> 
+description: In summer 2019, we learned Python programming. The session topics, slides and some Python codes used in the study can be seen by clicking the links blow. <br><b>Introduction to Python programing language and Spyder (<a href="../files/lect1.py">lect1.py</a>)</LI></b> 
 
 ---
