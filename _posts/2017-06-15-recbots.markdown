@@ -1,0 +1,15 @@
+---
+title: VEX Robotics - Recbots
+subtitle: 2017
+layout: default
+modal-id: 1
+date: 2017-06-15
+img: recbot.png
+thumbnail: recbot-thumbnail.jpg
+alt: image-alt
+project-date: June 2017
+client: Start Bootstrap
+category: Web Development
+description: In summer 2017, JCCC built Recbots out of VEX robotics kits. The robots had a variety of sensors and could autonmously perform programmed tasks. They could also be used with a remote control joystick. Code was written in RobotC. Some useful programs are linked below.<br> This program lets recbot perform the following tasks. After receiving the start signal, move forward 2 yards, make a 90 degree sharp left turn, move forward 2 yards, makes a 90 degree sharp righ turn, move forward 2 yards and stop. (<a href="../files/square.c">square.c</a>) <br>This program makes the recbot functioning as a remotely controlled toy with limited intelligence.(<a href="../files/remotecontrol.c">remotecontrol.c</a>)
+
+---
