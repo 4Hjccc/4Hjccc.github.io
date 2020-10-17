@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse. This is  a test   this is a test 
+description: In summer 2019, we learned Python programming. The session topics, slides and some Python codes used in the study can be seen by clicking the links blow.  <b>Introduction to Python programing language and Spyder (<a href="lect1.py">lect1.py</a>)</LI></b> 
 
 ---
