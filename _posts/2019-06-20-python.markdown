@@ -1,0 +1,16 @@
+---
+title: Python Programming
+subtitle: 2019
+layout: default
+modal-id: 5
+date: 2019-06-20
+img: python.jpg
+thumbnail: python-thumbnail.jpg
+alt: image-alt
+project-date: June 2019
+client: Start Bootstrap
+category: Web Development
+description: In summer 2019, we learned Python programming. The session topics, slides and some Python codes used in club activities can be seen by clicking the links blow. <br><b>Introduction to Python programing language and Spyder (<a href="../files/Introduction.pdf">slides</a>, <a href="../files/lect1.py">lect1.py</a>)</LI></b> <br><b>Variable and data type (<a href="../files/variable.pdf">slides</a>, <a href="../files/lect2.py">lect2.py</a>)</LI></b> <br><b>Condition and branch statements (<a href="../files/condition.pdf">slides</a>, <a href="../files/lect3.py">lect3.py</a>)</LI></b> <br><b>Loop statements (<a href="../files/loop.pdf">slides</a>, <a href="../files/lect4.py">lect4.py</a>)</LI></b> <br><b>Arithmetic operation and string manipulation (<a href="../files/operation.pdf">slides</a>, <a href="../files/lect5.py">lect5.py</a>)</LI></b> <br><b>List data structure (<a href="../files/list.pdf">slides</a>, <a href="../files/lect6.py">lect6_1.py</a>, <a href="../files/lect6_challenge2_partial.py">lect6_2.py</a>)</LI></b> <br><b>Creating functions (<a href="../files/function.pdf">slides</a>, <a href="../files/lect7.py">lect7.py</a>)</LI></b> <br><b>Creating a simple game (<a href="../files/game.pdf">slides</a>, <a href="../files/lect8.py">lect8_0.py</a>, <a href="../files/lect8p1.py">lect8_1.py</a>, <a href="../files/lect8p2.py">lect8_2.py</a>, <a href="../files/lect8p3.py">lect8_3.py</a>)</LI></b>
+
+---
+
