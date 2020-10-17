@@ -4,7 +4,7 @@ subtitle: 2019
 layout: default
 modal-id: 5
 date: 2019-06-20
-img: python.py
+img: python.jpg
 thumbnail: python-thumbnail.jpg
 alt: image-alt
 project-date: June 2019
