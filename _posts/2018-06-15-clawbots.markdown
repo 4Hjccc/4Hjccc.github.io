@@ -10,6 +10,6 @@ alt: image-alt
 project-date: June 2018
 client: Start Bootstrap
 category: Web Development
-description: In summer 2018, JCCC built Clawbots out of VEX robotics kits and programmed them to carry out different tasks. Some examples are listed below.<br><br>This program lets the clawbot perform different maneuvers. The parameters for controlling clawbot movements can be calibrated with using remote control (<a href="../files/move.c">move.c</a>)<br><br>This program lets the clawbot move forward, grab a box and and bring it back. (<a href="../files/grabandback.c">grabandback.c</a>)<br><br>This program lets the clawbot hold a mark and write 4H.(<a href="../files/4H.c">4H.c</a>)
+description: In summer 2018, JCCC built Clawbots out of VEX robotics kits and programmed them to carry out different tasks. Some examples are listed below.<br><br>This program lets the clawbot perform different maneuvers. The parameters for controlling clawbot movements can be calibrated with using remote control (<a href="../files/move.c">move.c</a>)<br><br>This program lets the clawbot move forward, grab a box and and bring it back. (<a href="../files/grabandback.c">grabandback.c</a>)<br><br>This program lets the clawbot hold a mark and write 4H.(<a href="../files/4h.c">4H.c</a>)
 
 ---
