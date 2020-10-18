@@ -19,13 +19,13 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/4hjccc@gmail.com",
+                url: "//formspree.io/contact@izaakbeekman.com",
                 method: "POST",
                 data: {
                     name: name,
                     email: email,
                     message: message,
-		            _gotcha: gotcha
+		    _gotcha: gotcha
                 },
 		dataType: "json",
                 cache: false,
