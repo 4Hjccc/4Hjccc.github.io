@@ -23,6 +23,7 @@ $(function() {
                 method: "POST",
                 data: {
                     name: name,
+                    phone: phone,
                     email: email,
                     message: message,
 		    _gotcha: gotcha
